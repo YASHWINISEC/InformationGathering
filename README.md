@@ -1,7 +1,7 @@
 # InformationGathering
 Information Gathering Techiques
 
-# To perform information gathering techniques
+## DATE: 08.03.2025
 
 # AIM:
 To perform information gathering techniques using kali linux 
